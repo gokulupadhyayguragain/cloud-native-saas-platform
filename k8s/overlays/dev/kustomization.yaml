@@ -1,4 +1,2 @@
 resources:
-  - ../../base/namespace.yaml
-  - ../../base/auth-deployment.yaml
-  - ../../base/auth-service.yaml
+  - ../../base
