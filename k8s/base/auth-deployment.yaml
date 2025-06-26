@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: auth
-        image: ghcr.io/YOUR_GITHUB_USERNAME/auth-service:v1
+        image: ghcr.io/gokulupadhyayguragain/auth-service:v1
         ports:
         - containerPort: 3000
